@@ -1,0 +1,27 @@
+.foto-pack{
+    height: 300px;
+    width: 100%;
+}
+
+.foto-ind{
+    height: 200px;
+    width: 200px;
+}
+
+button{
+    position: relative;
+    left: 100px;
+    top: -50px;
+}
+
+h1{
+    margin-bottom: 50px;
+}
+
+section{
+    margin-bottom: 50px;
+}
+
+article{
+    margin-bottom: 25px;
+}
