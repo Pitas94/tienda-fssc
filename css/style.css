@@ -4,14 +4,14 @@
 }
 
 .foto-ind{
-    height: 200px;
-    width: 200px;
+    height: 250px;
+    width: 250px;
 }
 
-button{
+.boton-cesta{
     position: relative;
-    left: 100px;
     top: -50px;
+    max-width: 70px;
 }
 
 h1{
@@ -24,4 +24,9 @@ section{
 
 article{
     margin-bottom: 25px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
 }
